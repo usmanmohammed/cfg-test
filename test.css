@@ -5,3 +5,7 @@ h2 {
 p  {
 	margin-left: 10px;
 }
+
+div {
+	border-radius: 1px;
+}
